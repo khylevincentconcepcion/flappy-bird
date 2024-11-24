@@ -1,0 +1,1 @@
+Inspired from Kenny Yip Coding YouTube channel.
